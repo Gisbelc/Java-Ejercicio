@@ -1,0 +1,6 @@
+spring:
+   datasource:
+      url: jdbc:oracle:thin:@//localhost:1521/orcl
+      username: sys as SYSDBA
+      password: 123456789
+      driverClassName: oracle.jdbc.OracleDriver
